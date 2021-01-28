@@ -3,7 +3,7 @@ Building a Car Game using Python programming language.
 
 - start: to start your car.
 - stop: to stop your car.
-- quit: to escape the who;e operation.
+- quit: to escape the whole operation.
 - help: guise to operate the game.
 
 * If typed start ---> the car will start, but if you typed start again it will give you a message that the car is already started, and that make sense to do another operation.
