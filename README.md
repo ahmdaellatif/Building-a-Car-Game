@@ -1,2 +1,2 @@
 # Building-a-Car-Game
-Building a Car Gamed using Python programming language.
+Building a Car Game using Python programming language.
